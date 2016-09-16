@@ -13,9 +13,8 @@ You are free to take the options regarding UI layout and app navigation that you
 * As a user I can take inbound phone calls.
 * As a user I have basic call controls (dial and hang-up).
 * As a user I can see a list with all the calls I did through the app.
+* As a user I want my past calls list to be available between app sessions.
 * As a user I can repeat any past calls by interacting with the roster.
-* As the application I record data regarding all calls in a roster.
-* As the application I persist the call roster between sessions.
 
 ## Assumptions
 
