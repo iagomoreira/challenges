@@ -35,7 +35,6 @@ into pure stealth mode. You can reach us via [hipchat](http://www.hipchat.com/gP
 ### Frontend
 
 - [SMS Support on Talkdesk](f1_sms_support.md)
-- [Ring Groups Interface](f2_ring_groups.md)
 - [Visual Representation of In Progress Calls](f3_visual_representation_of_calls.md)
 - [Browser Telephone](f4_browser_phone.md)
 
