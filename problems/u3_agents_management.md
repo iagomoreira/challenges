@@ -39,10 +39,9 @@ Using the background information we provide in the following section and taking 
 
 ## Background Information
 
-You can use the following credentials to login and explore Talkdesk:
+You'll need to ask for credentials and then use them to login and explore Talkdesk:
 
 - URL: [https://yourcompany.mytalkdesk.com/](https://yourcompany.mytalkdesk.com/)
-- Credentials: please use the hipchat channel and ask for it
 
 *Final note*: If there's anything you don't understand or is ambiguous, open an issue in your repository with the question ;) 
 

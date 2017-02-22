@@ -20,10 +20,9 @@ Here are some user stories to consider:
 
 This [spreadsheet](https://docs.google.com/spreadsheets/d/1zhOV1VNU66MpHf2zOruxc90Od7p0lMc3yTkrqvmmceQ/edit?usp=sharing) contains the definition of the different roles considering the existing Talkdesk functionality.
 
-You can use the following credentials to login and explore Talkdesk:
+You'll need to ask for credentials and then use them to login and explore Talkdesk:
 
 - URL: [https://yourcompany.mytalkdesk.com/](https://yourcompany.mytalkdesk.com/)
-- Credentials: please use the hipchat channel and ask for it
 
 *Final note*: If there's anything you don't understand or is ambiguous, open an issue in your repository with the question ;)
 
