@@ -16,10 +16,9 @@ Example use case: a customer sends an SMS requesting a call. A Talkdesk agent ca
 - The interface makes use of entries which can be calls, voicemails, notes or other interactions that exist in external systems.
 - Every interaction is associated to a contact.
 
-You can use the following credentials to login and explore Talkdesk:
+You'll need to ask for credentials and then use them to login and explore Talkdesk:
 
 - URL: [https://yourcompany.mytalkdesk.com/](https://yourcompany.mytalkdesk.com/)
-- Credentials: please use the hipchat channel and ask for it
 
 Here is an example of a voicemail entry:
 
