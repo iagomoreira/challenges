@@ -58,6 +58,10 @@ into pure stealth mode.
 
 - Watch this space.
 
+### Security
+
+- [No Optimus No Secret](s1_no_optimus_no_secret.md)
+
 ---
 
 [Go back to the README](../README.md)
