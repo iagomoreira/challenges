@@ -26,7 +26,7 @@ Taking this into consideration, present us a solution that includes the process 
 
 *Final note*: If there's anything you don't understand or is ambiguous, open an issue in your repository with the question ;)
 
-Please understand that the purpose of this challenge is only to evaluate your technical abilities and none of your work will be used by Talkdesk by any means.
+*Please understand that the purpose of this challenge is only to evaluate your technical abilities and none of your work will be used by Talkdesk by any means.*:
 
 ---
 
