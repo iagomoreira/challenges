@@ -15,7 +15,7 @@ Web development is an area in which you have to keep up with the latest technolo
 - Using the latest technologies, build the project (host it on a GitHub Repository) using HTML, CSS or any other language (like Javascript, React, etc.).
 - The project must be built on the SaSS processor. Think it as a framework where all elements and components might be used in other sections of your project.
 - You can use any methodology and nomenclature that might help us create reusable components and code.
-- Don’t forget to document your code and justify your decisions.
+- Don’t forget to document your architecture and decisions in the `README.md`.
 
 ## Other Requirements
 - As a bonus you can create interactions, behaviours and other components you think that will add value to the project.
