@@ -1,13 +1,13 @@
 # Talkdesk Dialpad
 
-Talkdesk is about making and receiving calls. Once a User (also known as an Agent) has signed up for Talkdesk and has created their own account, they will then buy a new phone number. Using this number, the user is able to make & receive phone calls.
+Talkdesk is about making and receiving calls. Once a User (also known as an Agent, an Admin or a Supervisor) has signed up for Talkdesk and has created their own account, they will then buy a new phone number. Using this number, the user is able to make & receive phone calls.
 
 For this challenge we would like you to build the new Dialpad with an improved experience both in terms of usability and visual interface.
 
 ## Requirements
-Web development is an area in which you have to keep up with the latest technologies and techniques, we want to see how you structure and organize your code, project and how you think semantically.
+Web development is an area in which you have to keep up with the latest technologies and techniques, we want to see how you structure and organize your project, code and how you apply semantic meaning to it.
 
-## User Case
+## Use Case
 - As an agent, I want to be able to expand the Dialpad, select an Outbound number, choose an country code and add or type a phone number to place the call.
 
 ## Let´s start
