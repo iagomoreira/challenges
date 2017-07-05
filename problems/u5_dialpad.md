@@ -13,7 +13,7 @@ Web development is an area in which you have to keep up with the latest technolo
 ## Let´s start
 - You will build a project based on a mockup designed by the UI/UX team in Sketch: [link](/problems/assets/dialpad/talkdeskdialpad.sketch) and also an example [here](/problems/assets/dialpad/example.pdf).
 - Using the latest technologies, build the project (host it on a GitHub Repository) using HTML, CSS or any other language (like Javascript, React, etc.).
-- The project must be built on the SaSS processor. Think it as a framework where all elements and components might be used in other sections of your project.
+- The project must be built on the SaSS processor. Think of it as a framework where all elements and components might be used in other sections of your project.
 - You can use any methodology and nomenclature that might help us create reusable components and code.
 - Don’t forget to document your architecture and decisions in the `README.md`.
 
